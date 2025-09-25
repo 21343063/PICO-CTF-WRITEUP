@@ -8,7 +8,7 @@ First, i try to connect the program with the netcat. the output was a song lyric
 
 <img width="500" height="489" alt="image" src="https://github.com/user-attachments/assets/4b5a5d05-a2a8-4ee0-90aa-75ab8cc4614a" />
 
-i guess the input i give is saved on the program and then will be repeatedly show in the lyrics. Then, i try to check on the program to see more clues. 
+i guess the input i give is saved on the program and then will be repeatedly show in the lyrics. Then, i try to check on the program to search for more clues. 
 
 <img width="500" height="307" alt="image" src="https://github.com/user-attachments/assets/33e8053d-3835-4ff1-afa7-4a4d5530bebf" />
 
